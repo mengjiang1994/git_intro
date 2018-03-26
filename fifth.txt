@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the fifth test file in the git_intro folder 
+=======
+#This is the fifth.txt file in git_intro2 by Meng Jiang via Vim
+>>>>>>> 9f68d422e7611090f8329702ba423d36226c8196
